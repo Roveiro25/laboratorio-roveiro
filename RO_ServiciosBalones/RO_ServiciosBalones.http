@@ -1,0 +1,6 @@
+@RO_ServiciosBalones_HostAddress = http://localhost:5080
+
+GET {{RO_ServiciosBalones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Balones\RO_ServiciosBalones\obj\Debug\net10.0\RO_ServiciosBalones.MvcApplicationPartsAssemblyInfo.cache

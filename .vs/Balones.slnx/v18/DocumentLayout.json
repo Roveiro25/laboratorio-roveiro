@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Balones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8503CF-BFB0-61DB-3F92-A5277A2162DA}|RO_PresentacionBalones\\RO_PresentacionBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_presentacionbalones\\ro_presentacionbalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E8503CF-BFB0-61DB-3F92-A5277A2162DA}|RO_PresentacionBalones\\RO_PresentacionBalones.csproj|solutionrelative:ro_presentacionbalones\\ro_presentacionbalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9D57D0-868E-C012-15B6-79536C09804D}|RO_Front\\RO_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_front\\ro_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E9D57D0-868E-C012-15B6-79536C09804D}|RO_Front\\RO_Front.csproj|solutionrelative:ro_front\\ro_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D058AD92-774C-22BD-C942-338D5107D880}|RO_ServiciosBalones\\RO_ServiciosBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_serviciosbalones\\ro_serviciosbalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D058AD92-774C-22BD-C942-338D5107D880}|RO_ServiciosBalones\\RO_ServiciosBalones.csproj|solutionrelative:ro_serviciosbalones\\ro_serviciosbalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\libreria_front\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|solutionrelative:libreria_front\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\libreria_front\\interfaces\\ibalonespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|solutionrelative:libreria_front\\interfaces\\ibalonespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\libreria_front\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|solutionrelative:libreria_front\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\libreria_front\\implementaciones\\balonespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|solutionrelative:libreria_front\\implementaciones\\balonespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\implementaciones\\balonesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\implementaciones\\balonesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\iterfaces\\ibalonesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\iterfaces\\ibalonesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\iterfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\iterfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D058AD92-774C-22BD-C942-338D5107D880}|RO_ServiciosBalones\\RO_ServiciosBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_serviciosbalones\\controllers\\balonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D058AD92-774C-22BD-C942-338D5107D880}|RO_ServiciosBalones\\RO_ServiciosBalones.csproj|solutionrelative:ro_serviciosbalones\\controllers\\balonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\entidades\\balones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\entidades\\balones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\ro_libreriabalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\ro_libreriabalones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|c:\\users\\usuario\\source\\repos\\balones\\libreria_front\\libreria_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B48CAFDC-0AE2-F6F8-0D0A-5B2FB3514E8D}|Libreria_Front\\Libreria_Front.csproj|solutionrelative:libreria_front\\libreria_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_libreriabalones\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D004E08B-AB2D-945A-9A41-F72E6BD3D40A}|RO_LibreriaBalones\\RO_LibreriaBalones.csproj|solutionrelative:ro_libreriabalones\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8503CF-BFB0-61DB-3F92-A5277A2162DA}|RO_PresentacionBalones\\RO_PresentacionBalones.csproj|c:\\users\\usuario\\source\\repos\\balones\\ro_presentacionbalones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8503CF-BFB0-61DB-3F92-A5277A2162DA}|RO_PresentacionBalones\\RO_PresentacionBalones.csproj|solutionrelative:ro_presentacionbalones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RO_PresentacionBalones",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_PresentacionBalones\\RO_PresentacionBalones.csproj",
+              "RelativeDocumentMoniker": "RO_PresentacionBalones\\RO_PresentacionBalones.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_PresentacionBalones\\RO_PresentacionBalones.csproj",
+              "RelativeToolTip": "RO_PresentacionBalones\\RO_PresentacionBalones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T15:06:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RO_ServiciosBalones",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_ServiciosBalones\\RO_ServiciosBalones.csproj",
+              "RelativeDocumentMoniker": "RO_ServiciosBalones\\RO_ServiciosBalones.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_ServiciosBalones\\RO_ServiciosBalones.csproj",
+              "RelativeToolTip": "RO_ServiciosBalones\\RO_ServiciosBalones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T15:06:07.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RO_Front",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_Front\\RO_Front.csproj",
+              "RelativeDocumentMoniker": "RO_Front\\RO_Front.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_Front\\RO_Front.csproj",
+              "RelativeToolTip": "RO_Front\\RO_Front.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T15:05:57.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:24:32.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\nucleo\\LogConversor.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\nucleo\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\nucleo\\LogConversor.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\nucleo\\LogConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:24:56.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBalonesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Interfaces\\IBalonesPresentacion.cs",
+              "RelativeDocumentMoniker": "Libreria_Front\\Interfaces\\IBalonesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Interfaces\\IBalonesPresentacion.cs",
+              "RelativeToolTip": "Libreria_Front\\Interfaces\\IBalonesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:17:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IComunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Interfaces\\IComunicaciones.cs",
+              "RelativeDocumentMoniker": "Libreria_Front\\Interfaces\\IComunicaciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Interfaces\\IComunicaciones.cs",
+              "RelativeToolTip": "Libreria_Front\\Interfaces\\IComunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:16:26.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BalonesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Implementaciones\\BalonesPresentacion.cs",
+              "RelativeDocumentMoniker": "Libreria_Front\\Implementaciones\\BalonesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Implementaciones\\BalonesPresentacion.cs",
+              "RelativeToolTip": "Libreria_Front\\Implementaciones\\BalonesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:14:43.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Implementaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "Libreria_Front\\Implementaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Implementaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "Libreria_Front\\Implementaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:14:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:52:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BalonesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Implementaciones\\BalonesAplicacion.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Implementaciones\\BalonesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Implementaciones\\BalonesAplicacion.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\Implementaciones\\BalonesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:52:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBalonesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Iterfaces\\IBalonesAplicacion.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Iterfaces\\IBalonesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Iterfaces\\IBalonesAplicacion.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\Iterfaces\\IBalonesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:01:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Iterfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Iterfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Iterfaces\\IConexion.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\Iterfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:58:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BalonesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_ServiciosBalones\\Controllers\\BalonesController.cs",
+              "RelativeDocumentMoniker": "RO_ServiciosBalones\\Controllers\\BalonesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_ServiciosBalones\\Controllers\\BalonesController.cs",
+              "RelativeToolTip": "RO_ServiciosBalones\\Controllers\\BalonesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:37:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Balones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Entidades\\Balones.cs",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Entidades\\Balones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Entidades\\Balones.cs",
+              "RelativeToolTip": "RO_LibreriaBalones\\Entidades\\Balones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:38:05.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RO_LibreriaBalones.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\RO_LibreriaBalones.csproj",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\RO_LibreriaBalones.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\RO_LibreriaBalones.csproj",
+              "RelativeToolTip": "RO_LibreriaBalones\\RO_LibreriaBalones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T13:28:42.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Libreria_Front.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Libreria_Front.csproj",
+              "RelativeDocumentMoniker": "Libreria_Front\\Libreria_Front.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\Libreria_Front\\Libreria_Front.csproj",
+              "RelativeToolTip": "Libreria_Front\\Libreria_Front.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T14:12:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Script.sql",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Script.sql",
+              "RelativeDocumentMoniker": "RO_LibreriaBalones\\Script.sql",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_LibreriaBalones\\Script.sql",
+              "RelativeToolTip": "RO_LibreriaBalones\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-12T13:30:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_PresentacionBalones\\Program.cs",
+              "RelativeDocumentMoniker": "RO_PresentacionBalones\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Balones\\RO_PresentacionBalones\\Program.cs",
+              "RelativeToolTip": "RO_PresentacionBalones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:26:08.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

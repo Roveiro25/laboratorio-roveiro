@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "RO_ServiciosBalones\\RO_ServiciosBalones.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RO_Front\\RO_Front.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

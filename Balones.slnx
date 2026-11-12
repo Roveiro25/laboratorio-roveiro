@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Libreria_Front/Libreria_Front.csproj" />
+  <Project Path="RO_Front/RO_Front.csproj" />
+  <Project Path="RO_LibreriaBalones/RO_LibreriaBalones.csproj" />
+  <Project Path="RO_PresentacionBalones/RO_PresentacionBalones.csproj" />
+  <Project Path="RO_ServiciosBalones/RO_ServiciosBalones.csproj" />
+</Solution>
